@@ -1,4 +1,0 @@
-Name: Samuel Capuras | Student ID: 24225120 | Course: Information Technology | Email: samuelcapuras.haha@gmail.com | DOB: February 14, 2005 | Gender: Male
-Name: Charissa Mhegann Castil | Student ID: 24225820 | Course: Nursing | Email: charissa.al@gmail.com | DOB: December 18, 2007 | Gender: Female
-Name: Mikasa Ackerman | Student ID: 24225111 | Course: Hotel and Restaurant Management | Email: mikasa@gmail.com | DOB: February 10, 2004 | Gender: Female
-Name: LeBron James | Student ID: 22223333 | Course: Marine Transportation | Email: lbjames@g.cuh | DOB: January 1, 1999 | Gender: Male
